@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx.base.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx.controls.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx.fxml.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx.graphics.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx.media.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx.swing.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx.web.jar",
+        "r:\\homemade\\Java\\javafx-sdk-22.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\rmp20\\Downloads\\postgresql-42.7.3.jar",
+        "c:\\Users\\rmp20\\Downloads\\mysql-connector-j-9.0.0.jar",
+        "c:\\Users\\rmp20\\Downloads\\mysql-connector-j-9.0.0\\mysql-connector-j-9.0.0\\mysql-connector-j-9.0.0.jar",
+        "c:\\Users\\rmp20\\Downloads\\pdfbox-app-3.0.3.jar",
+        "c:\\Users\\rmp20\\Downloads\\pdfbox-app-2.0.32.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
