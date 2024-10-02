@@ -1,0 +1,248 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "PDFReader",
+        "request": "launch",
+        "mainClass": "PDFReader",
+        "projectName": "p2_834f31d6"
+      },
+      {
+        "type": "java",
+        "name": "CashierApp",
+        "request": "launch",
+        "mainClass": "CashierApp",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_834f31d6"
+      },
+      {
+        "type": "java",
+        "name": "group",
+        "request": "launch",
+        "mainClass": "group",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_834f31d6"
+      },
+      {
+        "type": "java",
+        "name": "CloseConfirmationApp",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "CloseConfirmationApp",
+        "projectName": "p2_834f31d6"
+      },
+      {
+        "type": "java",
+        "name": "TheCompany",
+        "request": "launch",
+        "mainClass": "TheCompany",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "CashierApp",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "CashierApp",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "comp",
+        "request": "launch",
+        "mainClass": "comp",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "StylishLoginApp",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "StylishLoginApp",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "CompanyApp",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "CompanyApp",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "companyGroup",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "companyGroup",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "companyGroup",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "request": "launch",
+        "mainClass": "companyGroup",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "maingroup",
+        "request": "launch",
+        "mainClass": "maingroup",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "sales_rep",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "sales_rep",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "CloseConfirmationApp",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "CloseConfirmationApp",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "MeterReader",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "MeterReader",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "StockMarketSimulator",
+        "request": "launch",
+        "mainClass": "StockMarketSimulator",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "SearchBarWithDetailView",
+        "request": "launch",
+        "mainClass": "SearchBarWithDetailView",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "group",
+        "request": "launch",
+        "mainClass": "group",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "GridPaneExample",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "GridPaneExample",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "ARSApp",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "ARSApp",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "Client",
+        "request": "launch",
+        "mainClass": "Client",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "ElectricityBillApp",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "ElectricityBillApp",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "SimpleWebServer",
+        "request": "launch",
+        "mainClass": "SimpleWebServer",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "captcha",
+        "request": "launch",
+        "mainClass": "captcha",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "MultiLevelButtonNavigation",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "MultiLevelButtonNavigation",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "EvenOddPrimeChecker",
+        "request": "launch",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "mainClass": "EvenOddPrimeChecker",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "ColorPrediction",
+        "request": "launch",
+        "mainClass": "ColorPrediction",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "SimpleHttpServer",
+        "request": "launch",
+        "mainClass": "SimpleHttpServer",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "App",
+        "request": "launch",
+        "mainClass": "App",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Main",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "p2_9e51b4eb"
+      },
+      {
+        "type": "java",
+        "name": "Launch StockMarketSimulationGUI",
+        "request": "launch",
+        "mainClass": "StockMarketSimulationGUI",
+        "vmArgs": "--module-path R:/homemade/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+  }
+  
